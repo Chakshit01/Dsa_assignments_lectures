@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class binarySearchIn2D {
     public static void main(String[] args) {
-        System.out.println("Binary search in 2d Arrays");
+        System.out.println("Binary search in 2D_Arrays");
         int [][] matrix ={
                 {10,20,30,40},
                 {15,25,35,45},
