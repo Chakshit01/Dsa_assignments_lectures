@@ -10,7 +10,7 @@ public class usingOrderAgnostic {
 
     static int orderAgnostic(int []arr, int target) {
         int start = 0;
-        int end = arr.length - 1;
+         int end = arr.length - 1;
         boolean isAsc = arr[start] < arr[end];
 
         while (start < end) {
