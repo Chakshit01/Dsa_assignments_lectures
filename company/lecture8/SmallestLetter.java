@@ -7,7 +7,6 @@ public class SmallestLetter {
         char target = 'f';
         char ans = nextGreatestLetter(letters,target);
         System.out.println(ans);
-
     }
     static char nextGreatestLetter(char[] letters, char target)
     {
