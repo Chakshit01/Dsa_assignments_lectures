@@ -4,7 +4,7 @@ public class leet_441 {
     public static void main(String[] args) {
         System.out.println("Arranging coins");
         int n = 15;
-        System.out.println(arrangeCoins(n)+" rows completed");
+        System.out.println(arrangeCoins(n)+"  rows completed");
     }
 
     static int arrangeCoins(int n) {
