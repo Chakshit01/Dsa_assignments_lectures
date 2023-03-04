@@ -1,4 +1,5 @@
-package com.assignments.assignment5;public class leet_367 {
+package com.assignments.assignment5;
+public class leet_367 {
 
     public static void main(String[] args) {
         System.out.println("find the valid square");
